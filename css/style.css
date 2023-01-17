@@ -595,7 +595,7 @@ ul.pricing__item {
 
 .connection {
   padding: 145px 0 160px;
-  background-image: url("/images/map.jpg");
+  background-image: url("../images/map.jpg");
   background-repeat: no-repeat;
   background-size: 40%;
   background-position: right 65%;
