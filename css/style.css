@@ -593,7 +593,7 @@ ul.pricing__item {
   align-items: center;
 }
 
-.conection {
+.connection {
   padding: 145px 0 160px;
   background-image: url("/images/map.jpg");
   background-repeat: no-repeat;
@@ -601,7 +601,7 @@ ul.pricing__item {
   background-position: right 65%;
 }
 
-.conection__title {
+.connection__title {
   margin-bottom: 78px;
 }
 
